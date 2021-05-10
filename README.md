@@ -16,7 +16,8 @@ In CVPR 2021
 <img src="images/dataset.png">
 </p>
 
-Dataset is coming soon.
+## Updates
+[05/2021] Training set and Validation set have been released.
 
 ---
 
