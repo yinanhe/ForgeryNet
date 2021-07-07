@@ -21,6 +21,7 @@ In CVPR 2021
 
 ## Updates
 [07/2021] [The ForgeryNet Challenge 2021](https://competitions.codalab.org/competitions/33386) will start in July. 
+
 [06/2021] Inference code has been released.
 
 [05/2021] Training set and Validation set have been released.
