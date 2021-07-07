@@ -7,6 +7,7 @@
 <p align="center"> 
 <img src="images/abstract.png">
 </p>
+
 [[arxiv](https://arxiv.org/abs/2103.05630)|[pdf](https://yinanhe.github.io/projects/doc/forgerynet.pdf)|[video](https://www.youtube.com/watch?v=e8XIL3Di2Y8)|[webpage](https://yinanhe.github.io/projects/forgerynet.html)]
 
 [Yinan He](https://github.com/yinanhe), Bei Gan, [Siyu Chen](https://github.com/Siyu-C), [Yichun Zhou](https://github.com/TheshowN), [Guojun Yin](https://gjyin91.github.io), Luchuan Song, [Lu Sheng](https://lucassheng.github.io/), [Jing Shao](https://amandajshao.github.io), [Ziwei Liu](https://liuziwei7.github.io)
