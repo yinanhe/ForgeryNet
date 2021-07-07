@@ -1,10 +1,12 @@
 # *ForgeryNet*: A Versatile Benchmark for Comprehensive Forgery Analysis
 <p align="center"> 
-<img src="images/abstract.png">
+<img src="images/teaser.png">
 </p>
 
 **ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis**
-
+<p align="center"> 
+<img src="images/abstract.png">
+</p>
 [[arxiv](https://arxiv.org/abs/2103.05630)|[pdf](https://yinanhe.github.io/projects/doc/forgerynet.pdf)|[video](https://www.youtube.com/watch?v=e8XIL3Di2Y8)|[webpage](https://yinanhe.github.io/projects/forgerynet.html)]
 
 [Yinan He](https://github.com/yinanhe), Bei Gan, [Siyu Chen](https://github.com/Siyu-C), [Yichun Zhou](https://github.com/TheshowN), [Guojun Yin](https://gjyin91.github.io), Luchuan Song, [Lu Sheng](https://lucassheng.github.io/), [Jing Shao](https://amandajshao.github.io), [Ziwei Liu](https://liuziwei7.github.io)
@@ -17,6 +19,7 @@ In CVPR 2021
 </p>
 
 ## Updates
+[07/2021] [The ForgeryNet Challenge 2021](https://competitions.codalab.org/competitions/33386) will start in July. 
 [06/2021] Inference code has been released.
 
 [05/2021] Training set and Validation set have been released.
