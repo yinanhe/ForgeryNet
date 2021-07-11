@@ -20,6 +20,8 @@ In CVPR 2021
 </p>
 
 ## Updates
+[07/2021] Predict code has been released. Baseline model of Xception can be download at [Google Drive](https://drive.google.com/file/d/17goGzx5ljYSOYjSEw6un7Wb9g_9MGjG_/view?usp=sharing)
+
 [07/2021] [The ForgeryNet Challenge 2021](https://competitions.codalab.org/competitions/33386) will start in July. 
 
 [06/2021] Inference code has been released.
