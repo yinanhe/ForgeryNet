@@ -26,7 +26,7 @@ In CVPR 2021
 
 [06/2021] Inference code has been released.
 
-[05/2021] Training set and Validation set have been released.
+[05/2021] [Training set and Validation set have been released.](https://yinanhe.github.io/projects/forgerynet.html#download)
 
 ---
 
